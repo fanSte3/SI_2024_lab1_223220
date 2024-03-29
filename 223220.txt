@@ -1,0 +1,45 @@
+4. $ git init
+5. $ git remote add origin https://github.com/fanSte3/SI_2024_lab1_223220.git - go povrzuvame nasiot lokalen git so remote repozitorium
+6. $ touch README.md - pravime nov fajl .md
+   $ git add README.md - go stavame vo staging area
+   $ git commit -m "Initial commit" - go stavame vo local repositorium
+7. $ git add . - gi stavame site granki / branchovi vo staging area
+   $ git commit -m "Add starter code" - go stavame vo local repo
+8. $ git branch - ispecatuva koi granki gi imame
+   $ git push origin master - go stavame na remote repo
+9. $ git branch bug1 - pravime nova granka
+   $ git branch bug2 - pravime uste edna
+10. $ git checkout bug1 - menuvame granka
+11. $ git add . - gi stavame vo staging area
+    $ git commit -m "Fix wrong condition in filterOddLengthStrings" - gi smestuvame vo local repo
+12. $ git checkout bug2 - menuvame granka
+13. $ git add . - gi stavame vo staging area
+    $ git commit -m "Fix wrong condition in makeBigStringFrom" - gi semstuvame vo local repo so poraka
+14  $ git checkout bug1 - menuvame granka
+15. $ git add . - gi stavame site fajlovi vo staging area
+    $ git commit -m "Call method filterOddLengthStrings in main class" - gi stavame vo local repo so message
+16. $ git checkout bug2 - menuvame granka
+17. $ git add . -gi stavame vo stanging area
+    $ git commit -m "Call method filterOddLengthStrings in main class" - gi stavame vo local repo so message 
+18. $ git push origin --all - gi prakjame na remote repo
+19. $ git checkout master - menuvame granka vo master
+20. $ git merge bug1 -gi spojuvame master i bug1
+21. $ git push origin --all -  gi prakjame na remote repo
+22. $ git checkout bug2 - menuvame granka vo bug2
+23. $ git rebase master - spojuva commiti i gi stava na master granka i tuka se javuva konflikt koj treba da go resime
+    $ git add . - gi stava vo staging area 
+    $ git rebase --continue - prodolzuvame so rebase i resen konflikt 
+24. $ git checkout master - menuvame granka
+25. $ git merge bug2 - ja spojuvame so bug2
+26. $ git push origin --all - gi prakjame vo remote repo kade ni dava error
+    $ git push origin --all --force - otkako ke go dobieme errorot korisime dodatno --force za da go smestime vo remote repoto
+27. $ touch log.txt - pravime nov txt fajl kade gi zacuvuvuame site logovi koi gi povikuvame so git log
+    $ git log - gi povikuvame logovite
+28.
+
+29.
+
+30.
+
+
+

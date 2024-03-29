@@ -1,0 +1,58 @@
+commit ecf91df1fefadfb4de9ee4710f9a491f62e556fe (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:21:27 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 319cc465e4f964c4e585b5496431d9ff0582d45d
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:16:50 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1119d9155c07c8234a41873b7c22b3b9539beade (origin/bug1, bug1)
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:19:16 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 065c313cf033a64ca17f9a028d11d0c86b159e8e
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:15:22 2024 +0100
+
+:
+commit ecf91df1fefadfb4de9ee4710f9a491f62e556fe (HEAD -> master, origin/master, origin/bug2, bug2)
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:21:27 2024 +0100
+
+    Call method makeBigStringFrom in main class
+
+commit 319cc465e4f964c4e585b5496431d9ff0582d45d
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:16:50 2024 +0100
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 1119d9155c07c8234a41873b7c22b3b9539beade (origin/bug1, bug1)
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:19:16 2024 +0100
+
+    Call method filterOddLengthStrings in main class
+
+commit 065c313cf033a64ca17f9a028d11d0c86b159e8e
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:15:22 2024 +0100
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit dbeac56d0bd23b2d3ee6196e3f1f704f6dd59972
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:11:14 2024 +0100
+
+    Add starter code
+
+commit be55cc7c932e76175fad6296f51313b7dc447aad
+Author: Stefan Stankovski <stefanstankovski95@gmail.com>
+Date:   Fri Mar 29 01:10:20 2024 +0100
+
+    Initial commit
